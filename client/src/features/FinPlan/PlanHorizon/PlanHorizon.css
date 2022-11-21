@@ -1,0 +1,11 @@
+.form_fin_plan {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  padding-bottom: 10px;
+  margin-top: 20px;
+}
+
+label {
+  display: block;
+}
